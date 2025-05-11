@@ -94,12 +94,12 @@ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   .footer .container .boxes .right .social {
     position: absolute;
     flex-direction: column;
-    left: -85px;
+    left: -80px;
     top: -5px;
   }
   .footer .container .boxes .right .social a {
     margin-left: 0;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
   }
   .footer .container .boxes .right .social a img {
     max-width: 28px;
@@ -204,6 +204,9 @@ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
   .ask-us p {
    line-height: 22px;
+  }
+  .footer .container .footer-end p {
+    padding-top: 10px;
   }
 }
 

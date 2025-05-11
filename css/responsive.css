@@ -99,7 +99,10 @@ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
   .footer .container .boxes .right .social a {
     margin-left: 0;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
+  }
+  .footer .container .boxes .right .social a img {
+    max-width: 28px;
   }
   .footer .container .footer-end {
     flex-direction: column;
